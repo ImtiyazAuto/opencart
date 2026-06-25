@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="3" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-06-25T14:15:16 IST" name="Suite" finished-at="2026-06-25T14:15:34 IST" duration-ms="17188">
+    <groups>
+      <group name="regression">
+        <method signature="Register_TC.Register()[pri:0, instance:testCase.Register_TC@460d0a57]" name="Register" class="testCase.Register_TC"/>
+      </group> <!-- regression -->
+      <group name="sanity">
+        <method signature="TC002_loginpage.login()[pri:0, instance:testCase.TC002_loginpage@1b1473ab]" name="login" class="testCase.TC002_loginpage"/>
+      </group> <!-- sanity -->
+      <group name="master">
+        <method signature="Register_TC.Register()[pri:0, instance:testCase.Register_TC@460d0a57]" name="Register" class="testCase.Register_TC"/>
+        <method signature="TC002_loginpage.login()[pri:0, instance:testCase.TC002_loginpage@1b1473ab]" name="login" class="testCase.TC002_loginpage"/>
+      </group> <!-- master -->
+    </groups>
+    <test started-at="2026-06-25T14:15:16 IST" name="Test" finished-at="2026-06-25T14:15:34 IST" duration-ms="17188">
+      <class name="testCase.TC002_loginpage">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.TC002_loginpage@1b1473ab]" started-at="2026-06-25T14:15:23 IST" name="setup" finished-at="2026-06-25T14:15:25 IST" duration-ms="1809" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="login()[pri:0, instance:testCase.TC002_loginpage@1b1473ab]" started-at="2026-06-25T14:15:25 IST" name="login" finished-at="2026-06-25T14:15:33 IST" duration-ms="8514" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testCase.TC002_loginpage@1b1473ab]" started-at="2026-06-25T14:15:33 IST" name="closing" finished-at="2026-06-25T14:15:34 IST" duration-ms="238" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testCase.TC002_loginpage -->
+      <class name="testCase.Register_TC">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCase.Register_TC@460d0a57]" started-at="2026-06-25T14:15:17 IST" name="setup" finished-at="2026-06-25T14:15:21 IST" duration-ms="3816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[windows]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Register()[pri:0, instance:testCase.Register_TC@460d0a57]" started-at="2026-06-25T14:15:21 IST" name="Register" finished-at="2026-06-25T14:15:23 IST" duration-ms="2224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Register -->
+        <test-method is-config="true" signature="closing()[pri:0, instance:testCase.Register_TC@460d0a57]" started-at="2026-06-25T14:15:23 IST" name="closing" finished-at="2026-06-25T14:15:23 IST" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closing -->
+      </class> <!-- testCase.Register_TC -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
