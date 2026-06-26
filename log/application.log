@@ -134,3 +134,29 @@
 2026-06-25 14:15:25 [main] INFO  testCase.TC002_loginpage - home page opening
 2026-06-25 14:15:26 [main] INFO  testCase.TC002_loginpage - clicking login
 2026-06-25 14:15:32 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 16:05:54 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:07:49 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:11:43 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:11:44 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:12:00 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:12:00 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:12:08 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:19:45 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:19:51 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:21:06 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:22:01 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:25:21 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:25:34 [main] INFO  testCase.Register_TC - accesing register page class through constructor 
+2026-06-26 16:26:17 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:26:17 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 16:26:24 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 16:50:53 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 16:51:17 [main] INFO  testCase.Register_TC - accesing register page class through constructor 
+2026-06-26 16:53:22 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 16:53:22 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 16:53:29 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 17:05:22 [main] INFO  testCase.Register_TC - accesing home page class through constructor 
+2026-06-26 17:05:40 [main] INFO  testCase.Register_TC - accesing register page class through constructor 
+2026-06-26 17:06:30 [main] INFO  testCase.TC002_loginpage - home page opening
+2026-06-26 17:06:30 [main] INFO  testCase.TC002_loginpage - clicking login
+2026-06-26 17:06:36 [main] INFO  testCase.TC002_loginpage - clicking login

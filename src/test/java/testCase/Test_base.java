@@ -73,7 +73,7 @@ public class Test_base {
  } 
 		}
 		driver.manage().window().maximize();
-		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		//driver.get("https://tutorialsninja.com/demo/");
 		//edit3 properties file reading 
 		
